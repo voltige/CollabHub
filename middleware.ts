@@ -1,0 +1,1 @@
+// Ce fichier contient la logique de middleware pour gérer les requêtes et les réponses.
